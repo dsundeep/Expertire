@@ -1,0 +1,17 @@
+.heroOverlay {
+  background-image: url("https://images.unsplash.com/photo-1509062522246-3755977927d7");
+  background-size: cover;
+  height: 480px;
+  width: auto;
+  margin-bottom: 4rem;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+}
+.heroCopy {
+  background-color: rgba(255,255,255, .6);
+  text-align: center;
+  padding: 3rem;
+  margin: 0 1rem;
+}
