@@ -32,5 +32,5 @@
 
 - [React Bootstrap Starter Template](https://github.com/ChrisAchinga/react-bootstrap-starter)
 - [React Bootstrap Starter Template](https://reactjsexample.com/a-react-bootstrap-starter-template-with-react-router/)
-- [Bootstrap Components](https://getbootstrap.com/docs/5.0/examples/carousel/)
+- [Bootstrap Components](https://getbootstrap.com/docs/5.0/examples/carousel)
 
